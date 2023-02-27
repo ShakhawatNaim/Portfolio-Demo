@@ -161,6 +161,7 @@ body {
     width: 300px;
     margin: 40px;
     border: 1px solid #555;
+    outline: 1px solid #555;
     border-radius: 5px;
     background-color: #fff;
 }
@@ -177,6 +178,7 @@ body {
     width: 300px;
     margin: 40px;
     border: 1px solid #555;
+    outline: 1px solid #555;
     border-radius: 5px;
     background-color: #fff;
 }
@@ -188,6 +190,7 @@ body {
     width: 300px;
     margin: 40px;
     border: 1px solid #555;
+    outline: 1px solid #555;
     border-radius: 5px;
     background-color: #fff;
 }
